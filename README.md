@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=006500&width=600&lines=Hi%2C+I'm+Olena+Taranova!;Front-End+Developer" />
 </p>
 
+---
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&rounded=true" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&rounded=true" />
@@ -15,16 +17,26 @@
 </p>
 
 ---
+# 💻 About Me
+
+I’m a Junior Frontend Developer with a passion for creating interactive web experiences. Key highlights:
+
+- Hands-on experience in building responsive interfaces and interactive UI components  
+- Collaborated in Scrum teams as Frontend Developer & Scrum Master  
+- Worked with REST APIs and Axios for dynamic data integration  
+- Skilled in HTML5, CSS3, JavaScript (ES6+), TypeScript, and React  
+- Focused on clean code, smooth UX, and continuous learning
+
+---
 
 # 👩‍💻 Team Projects Highlights
 
 <p>
-
 <!-- Project GalaxyTeam / PawHaven -->
-<a href="https://ikerom3.github.io/Project-GalaxyTeam/" target="_blank">
+<a href="https://ikerom3.github.io/Project-GalaxyTeam/">
   <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/ikeroM3/Project-GalaxyTeam" target="_blank">
+<a href="https://github.com/ikeroM3/Project-GalaxyTeam">
   <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
@@ -43,10 +55,10 @@
 <p>
 
 <!-- CoffeeJoy -->
-<a href="https://milenness.github.io/coffee-joy/" target="_blank">
+<a href="https://milenness.github.io/coffee-joy/">
   <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/milenness/coffee-joy" target="_blank">
+<a href="https://github.com/milenness/coffee-joy">
   <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
