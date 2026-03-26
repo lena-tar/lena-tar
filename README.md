@@ -16,57 +16,31 @@
 
 ---
 
-## 📂 My Projects
+# 👩‍💻 Team Projects Highlights
 
-### 🎨 HTML & CSS Projects
-<p align="center">
-  <a href="https://lena-tar.github.io/markup-exercises/hw-01/index.html">
-    <img src="https://img.shields.io/badge/hw--01-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/markup-exercises/hw-02/index.html">
-    <img src="https://img.shields.io/badge/hw--02-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/markup-exercises/hw-03/index.html">
-    <img src="https://img.shields.io/badge/hw--03-Flexbox-purple?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/markup-exercises/hw-04/index.html">
-    <img src="https://img.shields.io/badge/hw--04-Effects-indigo?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/markup-exercises/hw-05/index.html">
-    <img src="https://img.shields.io/badge/hw--05-Forms-red?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/markup-exercises/hw-06/index.html">
-    <img src="https://img.shields.io/badge/hw--06-Responsive-green?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-</p>
+---
 
-### ⚡ JavaScript Projects
-<p align="center">
-  <a href="https://lena-tar.github.io/js-exercises/hw-01/index.html">
-    <img src="https://img.shields.io/badge/hw--01-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-02/index.html">
-    <img src="https://img.shields.io/badge/hw--02-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-03/index.html">
-    <img src="https://img.shields.io/badge/hw--03-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-04/index.html">
-    <img src="https://img.shields.io/badge/hw--04-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-05/index.html">
-    <img src="https://img.shields.io/badge/hw--05-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-06/index.html">
-    <img src="https://img.shields.io/badge/hw--06-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-07/index.html">
-    <img src="https://img.shields.io/badge/hw--07-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://lena-tar.github.io/js-exercises/hw-08/index.html">
-    <img src="https://img.shields.io/badge/hw--08-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-</p>
+**🌌 Project GalaxyTeam** – Frontend Developer  
+- Built a dynamic pets gallery with interactive animal cards  
+- Implemented category filtering and Load More pagination  
+- Managed API integration with Axios for animals and categories  
+- Developed scroll-to-top button and responsive UI elements  
+- Handled loader states for smooth UX  
+
+**Technologies:** HTML5 • CSS3 • JS (ES6+) • Axios • Git • GitHub  
+**Links:** [Live Demo](https://ikerom3.github.io/Project-GalaxyTeam/) • [Source Code](https://github.com/ikeroM3/Project-GalaxyTeam)  
+
+---
+
+**☕ CoffeeJoy** – Frontend Developer  
+- Developed interactive testimonials section and reusable card components  
+- Styled responsive layout using Flexbox and media queries  
+- Added Dark Mode and hover effects  
+- Managed modal windows and form submissions with DOM manipulation  
+
+**Technologies:** HTML5 • CSS3 • JS (ES6+) • Git • GitHub  
+**Links:** [Live Demo](https://milenness.github.io/coffee-joy/) • [Source Code](https://github.com/milenness/coffee-joy)  
+
 
 ---
 
