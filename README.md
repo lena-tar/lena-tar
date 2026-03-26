@@ -1,8 +1,8 @@
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=006500&width=600&lines=Hi%2C+I'm+Olena+Taranova!;Front-End+Developer" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&rounded=true" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&rounded=true" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&rounded=true" />
@@ -18,35 +18,52 @@
 
 # 👩‍💻 Team Projects Highlights
 
----
+<p>
 
-**🌌 Project GalaxyTeam** – Frontend Developer  
-- Built a dynamic pets gallery with interactive animal cards  
+<!-- Project GalaxyTeam / PawHaven -->
+<a href="https://ikerom3.github.io/Project-GalaxyTeam/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/ikeroM3/Project-GalaxyTeam" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+**🌌 PawHaven – Project GalaxyTeam** – Frontend Developer & Scrum Master  
+- Built interactive animal cards
 - Implemented category filtering and Load More pagination  
-- Managed API integration with Axios for animals and categories  
-- Developed scroll-to-top button and responsive UI elements  
-- Handled loader states for smooth UX  
+- Integrated with external REST API using Axios  
+- Created smooth UX with loaders, scroll-to-top button, and responsive adjustments  
+- Organized Scrum ceremonies
 
-**Technologies:** HTML5 • CSS3 • JS (ES6+) • Axios • Git • GitHub  
-**Links:** [Live Demo](https://ikerom3.github.io/Project-GalaxyTeam/) • [Source Code](https://github.com/ikeroM3/Project-GalaxyTeam)  
+**Technologies:** HTML5 • CSS3 • JavaScript (ES6+) • REST API • Axios • Git • GitHub  
 
 ---
+
+<p>
+
+<!-- CoffeeJoy -->
+<a href="https://milenness.github.io/coffee-joy/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/milenness/coffee-joy" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 **☕ CoffeeJoy** – Frontend Developer  
-- Developed interactive testimonials section and reusable card components  
-- Styled responsive layout using Flexbox and media queries  
+- Developed interactive testimonials section with card components  
+- Styled responsive layout with Flexbox and media queries  
 - Added Dark Mode and hover effects  
 - Managed modal windows and form submissions with DOM manipulation  
 
-**Technologies:** HTML5 • CSS3 • JS (ES6+) • Git • GitHub  
-**Links:** [Live Demo](https://milenness.github.io/coffee-joy/) • [Source Code](https://github.com/milenness/coffee-joy)  
-
+**Technologies:** HTML5 • CSS3 • JavaScript (ES6+) • Git • GitHub  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=lena-tar&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-tar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -55,7 +72,7 @@
 
 ## 📬 Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:taranova9933@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/olena-taranova-5592663b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/lena-tar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
