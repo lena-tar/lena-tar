@@ -73,15 +73,6 @@ I’m a Junior Frontend Developer with a passion for creating interactive web ex
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lena-tar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-tar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Contact Me
 
 <p>
