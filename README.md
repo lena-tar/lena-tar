@@ -1,8 +1,3 @@
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=006500&width=600&lines=Hi%2C+I'm+Olena+Taranova!;Junior+Frontend+Developer" />
@@ -40,19 +35,6 @@ I focus on clarity, maintainability, and product thinking.
 </p>
 
 ---
-
-## 📬 Contact Me
-
-<p>
-  <a href="mailto:taranova9933@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/olena-taranova-5592663b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/lena-tar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p> 
-
-
-</td>
-
-<td width="50%" valign="top">
 
 # Projects
 
@@ -113,7 +95,12 @@ Frontend Developer
 
 ---
 
-</td>
+## 📬 Contact Me
 
-</tr>
-</table>
+<p>
+  <a href="mailto:taranova9933@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/olena-taranova-5592663b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lena-tar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p> 
+
+
